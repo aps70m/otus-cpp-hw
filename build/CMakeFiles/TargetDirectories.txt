@@ -1,3 +1,0 @@
-C:/Users/Александра/Desktop/otus-cpp-hw/build/CMakeFiles/GuessNumberPlayGame.dir
-C:/Users/Александра/Desktop/otus-cpp-hw/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Александра/Desktop/otus-cpp-hw/build/CMakeFiles/ZERO_CHECK.dir
