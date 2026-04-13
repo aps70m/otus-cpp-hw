@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\c39564a28d8f1ddb51389a253a215b2f\sfml-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\c39564a28d8f1ddb51389a253a215b2f\sfml-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\c39564a28d8f1ddb51389a253a215b2f\sfml-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\c39564a28d8f1ddb51389a253a215b2f\sfml-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\c39564a28d8f1ddb51389a253a215b2f\sfml-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\c39564a28d8f1ddb51389a253a215b2f\sfml-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\c39564a28d8f1ddb51389a253a215b2f\sfml-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\c39564a28d8f1ddb51389a253a215b2f\sfml-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\0b1ab7cecbc9a224e03d9206c01e4131\sfml-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\c966d278a910be0e455320a995c85998\sfml-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Александра\Desktop\otus-cpp-hw\build\_deps\sfml-subbuild\CMakeFiles\sfml-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ADEEC00D-0485-3B80-94BE-F6EA0624FC88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

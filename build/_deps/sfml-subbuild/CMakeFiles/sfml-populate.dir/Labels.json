@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c966d278a910be0e455320a995c85998/sfml-populate.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/0b1ab7cecbc9a224e03d9206c01e4131/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

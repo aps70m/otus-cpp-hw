@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c966d278a910be0e455320a995c85998/sfml-populate.rule
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/0b1ab7cecbc9a224e03d9206c01e4131/sfml-populate-complete.rule
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-build.rule
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-configure.rule
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-download.rule
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-install.rule
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-mkdir.rule
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-patch.rule
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-test.rule
+C:/Users/Александра/Desktop/otus-cpp-hw/build/_deps/sfml-subbuild/CMakeFiles/c39564a28d8f1ddb51389a253a215b2f/sfml-populate-update.rule
