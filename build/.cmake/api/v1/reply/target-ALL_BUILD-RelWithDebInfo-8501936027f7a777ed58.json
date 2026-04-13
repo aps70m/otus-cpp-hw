@@ -17,16 +17,16 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "sfml-window::@5730451e331e3690ae65"
-		},
-		{
-			"id" : "sfml-graphics::@98af38147d5fa7e70f61"
-		},
-		{
 			"id" : "sfml-system::@8cb1db2982443611e568"
 		},
 		{
+			"id" : "sfml-window::@5730451e331e3690ae65"
+		},
+		{
 			"id" : "sfml-main::@81ec5539f1398dd625f6"
+		},
+		{
+			"id" : "sfml-graphics::@98af38147d5fa7e70f61"
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
